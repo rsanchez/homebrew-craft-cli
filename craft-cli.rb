@@ -3,7 +3,7 @@ require 'formula'
 class CraftCli < Formula
   homepage 'https://github.com/rsanchez/craft-cli'
   url 'https://github.com/rsanchez/craft-cli/releases/download/0.7.0/craft.phar'
-  sha256 'e6fb32e34b714c8665fe76046ad1eaabe726a7e17c1b522386402a8fb3c9fc3f'
+  sha256 'fb12dc45e766b9beee67202ba722c0c1c4c02263a8c6ab12a3c83f94127d3500'
   version '0.7.0'
 
   def install
