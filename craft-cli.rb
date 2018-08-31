@@ -18,7 +18,7 @@ class CraftCli < Formula
     system 'craft --version'
   end
 
-  def caveats; <<-EOS.undent
+  def caveats; <<~EOS
     Verify your installation by running:
       "craft --version".
 
