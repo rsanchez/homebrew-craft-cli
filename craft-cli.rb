@@ -2,9 +2,9 @@ require 'formula'
 
 class CraftCli < Formula
   homepage 'https://github.com/rsanchez/craft-cli'
-  url 'https://github.com/rsanchez/craft-cli/releases/download/0.17.3/craft.phar'
-  sha256 '548ea493467ca5f0bcc1a5d34cd227362a6d3ec0460bbea9308381a47b6a459b'
-  version '0.17.3'
+  url 'https://github.com/rsanchez/craft-cli/releases/download/0.17.4/craft.phar'
+  sha256 '1a5bb18692f36bdd474d46d6672015778a9a4ecc98c2d134fcf8d804a534b2bb'
+  version '0.17.4'
 
   def install
     libexec.install "craft.phar"
